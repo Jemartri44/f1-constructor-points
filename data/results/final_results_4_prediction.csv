@@ -1,0 +1,2543 @@
+raceId,points,name,year
+337,43.0,Ferrari,2010
+337,21.0,McLaren,2010
+337,16.0,Red Bull,2010
+337,18.0,Mercedes,2010
+337,2.0,Force India,2010
+337,1.0,Williams,2010
+337,0.0,Renault,2010
+337,0.0,Toro Rosso,2010
+337,0.0,Lotus,2010
+337,0.0,Sauber,2010
+337,0.0,HRT,2010
+337,0.0,Virgin,2010
+338,33.0,McLaren,2010
+338,18.0,Renault,2010
+338,27.0,Ferrari,2010
+338,11.0,Mercedes,2010
+338,6.0,Force India,2010
+338,4.0,Williams,2010
+338,2.0,Red Bull,2010
+338,0.0,Toro Rosso,2010
+338,0.0,Sauber,2010
+338,0.0,Lotus,2010
+338,0.0,HRT,2010
+338,0.0,Virgin,2010
+339,43.0,Red Bull,2010
+339,15.0,Mercedes,2010
+339,12.0,Renault,2010
+339,10.0,Force India,2010
+339,12.0,McLaren,2010
+339,6.0,Ferrari,2010
+339,2.0,Toro Rosso,2010
+339,1.0,Williams,2010
+339,0.0,Virgin,2010
+339,0.0,HRT,2010
+339,0.0,Lotus,2010
+339,0.0,Sauber,2010
+340,43.0,McLaren,2010
+340,16.0,Mercedes,2010
+340,14.0,Ferrari,2010
+340,16.0,Renault,2010
+340,12.0,Red Bull,2010
+340,0.0,Force India,2010
+340,0.0,Williams,2010
+340,0.0,Toro Rosso,2010
+340,0.0,Lotus,2010
+340,0.0,HRT,2010
+340,0.0,Virgin,2010
+340,0.0,Sauber,2010
+341,40.0,Red Bull,2010
+341,26.0,Ferrari,2010
+341,12.0,Mercedes,2010
+341,10.0,McLaren,2010
+341,6.0,Force India,2010
+341,4.0,Renault,2010
+341,2.0,Williams,2010
+341,1.0,Toro Rosso,2010
+341,0.0,Sauber,2010
+341,0.0,Lotus,2010
+341,0.0,Virgin,2010
+341,0.0,HRT,2010
+342,43.0,Red Bull,2010
+342,15.0,Renault,2010
+342,20.0,Ferrari,2010
+342,10.0,McLaren,2010
+342,6.0,Mercedes,2010
+342,6.0,Force India,2010
+342,1.0,Toro Rosso,2010
+342,0.0,HRT,2010
+342,0.0,Lotus,2010
+342,0.0,Williams,2010
+342,0.0,Sauber,2010
+342,0.0,Virgin,2010
+343,43.0,McLaren,2010
+343,15.0,Red Bull,2010
+343,22.0,Mercedes,2010
+343,8.0,Renault,2010
+343,10.0,Ferrari,2010
+343,2.0,Force India,2010
+343,1.0,Sauber,2010
+343,0.0,Toro Rosso,2010
+343,0.0,Williams,2010
+343,0.0,Virgin,2010
+343,0.0,HRT,2010
+343,0.0,Lotus,2010
+344,43.0,McLaren,2010
+344,15.0,Ferrari,2010
+344,22.0,Red Bull,2010
+344,8.0,Mercedes,2010
+344,6.0,Renault,2010
+344,4.0,Toro Rosso,2010
+344,3.0,Force India,2010
+344,0.0,Williams,2010
+344,0.0,Lotus,2010
+344,0.0,HRT,2010
+344,0.0,Virgin,2010
+344,0.0,Sauber,2010
+345,25.0,Red Bull,2010
+345,33.0,McLaren,2010
+345,12.0,Williams,2010
+345,10.0,Renault,2010
+345,8.0,Force India,2010
+345,6.0,Sauber,2010
+345,4.0,Ferrari,2010
+345,2.0,Toro Rosso,2010
+345,1.0,Mercedes,2010
+345,0.0,Virgin,2010
+345,0.0,HRT,2010
+345,0.0,Lotus,2010
+346,31.0,Red Bull,2010
+346,30.0,McLaren,2010
+346,17.0,Mercedes,2010
+346,11.0,Williams,2010
+346,8.0,Sauber,2010
+346,4.0,Force India,2010
+346,0.0,Toro Rosso,2010
+346,0.0,Renault,2010
+346,0.0,Ferrari,2010
+346,0.0,Lotus,2010
+346,0.0,Virgin,2010
+346,0.0,HRT,2010
+347,43.0,Ferrari,2010
+347,23.0,Red Bull,2010
+347,22.0,McLaren,2010
+347,7.0,Renault,2010
+347,6.0,Mercedes,2010
+347,0.0,Sauber,2010
+347,0.0,Williams,2010
+347,0.0,Toro Rosso,2010
+347,0.0,Force India,2010
+347,0.0,Virgin,2010
+347,0.0,HRT,2010
+347,0.0,Lotus,2010
+348,40.0,Red Bull,2010
+348,30.0,Ferrari,2010
+348,10.0,Renault,2010
+348,9.0,Williams,2010
+348,8.0,Sauber,2010
+348,4.0,McLaren,2010
+348,0.0,Mercedes,2010
+348,0.0,Toro Rosso,2010
+348,0.0,Force India,2010
+348,0.0,Lotus,2010
+348,0.0,Virgin,2010
+348,0.0,HRT,2010
+349,25.0,McLaren,2010
+349,18.0,Red Bull,2010
+349,17.0,Renault,2010
+349,12.0,Ferrari,2010
+349,11.0,Force India,2010
+349,14.0,Mercedes,2010
+349,4.0,Sauber,2010
+349,0.0,Toro Rosso,2010
+349,0.0,Williams,2010
+349,0.0,Lotus,2010
+349,0.0,Virgin,2010
+349,0.0,HRT,2010
+350,40.0,Ferrari,2010
+350,18.0,McLaren,2010
+350,20.0,Red Bull,2010
+350,12.0,Mercedes,2010
+350,7.0,Williams,2010
+350,4.0,Renault,2010
+350,0.0,Toro Rosso,2010
+350,0.0,Force India,2010
+350,0.0,Sauber,2010
+350,0.0,Virgin,2010
+350,0.0,Lotus,2010
+350,0.0,HRT,2010
+351,29.0,Ferrari,2010
+351,33.0,Red Bull,2010
+351,12.0,McLaren,2010
+351,10.0,Mercedes,2010
+351,9.0,Williams,2010
+351,6.0,Renault,2010
+351,2.0,Force India,2010
+351,0.0,Toro Rosso,2010
+351,0.0,Virgin,2010
+351,0.0,Lotus,2010
+351,0.0,Sauber,2010
+351,0.0,HRT,2010
+352,43.0,Red Bull,2010
+352,15.0,Ferrari,2010
+352,22.0,McLaren,2010
+352,8.0,Mercedes,2010
+352,10.0,Sauber,2010
+352,2.0,Williams,2010
+352,1.0,Toro Rosso,2010
+352,0.0,Lotus,2010
+352,0.0,Virgin,2010
+352,0.0,HRT,2010
+352,0.0,Force India,2010
+352,0.0,Renault,2010
+353,40.0,Ferrari,2010
+353,18.0,McLaren,2010
+353,12.0,Mercedes,2010
+353,10.0,Renault,2010
+353,8.0,Force India,2010
+353,7.0,Williams,2010
+353,6.0,Sauber,2010
+353,0.0,Toro Rosso,2010
+353,0.0,Lotus,2010
+353,0.0,HRT,2010
+353,0.0,Red Bull,2010
+353,0.0,Virgin,2010
+354,43.0,Red Bull,2010
+354,15.0,Ferrari,2010
+354,22.0,McLaren,2010
+354,14.0,Mercedes,2010
+354,4.0,Williams,2010
+354,2.0,Renault,2010
+354,1.0,Sauber,2010
+354,0.0,Toro Rosso,2010
+354,0.0,Force India,2010
+354,0.0,Lotus,2010
+354,0.0,Virgin,2010
+354,0.0,HRT,2010
+355,29.0,Red Bull,2010
+355,33.0,McLaren,2010
+355,12.0,Mercedes,2010
+355,18.0,Renault,2010
+355,7.0,Ferrari,2010
+355,2.0,Toro Rosso,2010
+355,0.0,Sauber,2010
+355,0.0,Williams,2010
+355,0.0,Force India,2010
+355,0.0,Lotus,2010
+355,0.0,Virgin,2010
+355,0.0,HRT,2010
+841,35.0,Red Bull,2011
+841,26.0,McLaren,2011
+841,15.0,Renault,2011
+841,18.0,Ferrari,2011
+841,0.0,Sauber,2011
+841,4.0,Toro Rosso,2011
+841,3.0,Force India,2011
+841,0.0,Lotus,2011
+841,0.0,Virgin,2011
+841,0.0,Williams,2011
+841,0.0,Mercedes,2011
+842,37.0,Red Bull,2011
+842,22.0,McLaren,2011
+842,15.0,Renault,2011
+842,18.0,Ferrari,2011
+842,6.0,Sauber,2011
+842,2.0,Mercedes,2011
+842,1.0,Force India,2011
+842,0.0,Toro Rosso,2011
+842,0.0,Lotus,2011
+842,0.0,Virgin,2011
+842,0.0,HRT,2011
+842,0.0,Williams,2011
+843,37.0,McLaren,2011
+843,33.0,Red Bull,2011
+843,14.0,Mercedes,2011
+843,14.0,Ferrari,2011
+843,2.0,Renault,2011
+843,1.0,Sauber,2011
+843,0.0,Force India,2011
+843,0.0,Williams,2011
+843,0.0,Toro Rosso,2011
+843,0.0,Lotus,2011
+843,0.0,Virgin,2011
+843,0.0,HRT,2011
+844,43.0,Red Bull,2011
+844,15.0,Ferrari,2011
+844,20.0,McLaren,2011
+844,10.0,Mercedes,2011
+844,10.0,Renault,2011
+844,2.0,Toro Rosso,2011
+844,1.0,Sauber,2011
+844,0.0,Force India,2011
+844,0.0,Williams,2011
+844,0.0,Lotus,2011
+844,0.0,Virgin,2011
+844,0.0,HRT,2011
+845,37.0,Red Bull,2011
+845,33.0,McLaren,2011
+845,10.0,Ferrari,2011
+845,14.0,Mercedes,2011
+845,4.0,Renault,2011
+845,3.0,Sauber,2011
+845,0.0,Force India,2011
+845,0.0,Toro Rosso,2011
+845,0.0,Williams,2011
+845,0.0,Lotus,2011
+845,0.0,Virgin,2011
+845,0.0,HRT,2011
+846,37.0,Red Bull,2011
+846,18.0,Ferrari,2011
+846,23.0,McLaren,2011
+846,10.0,Sauber,2011
+846,6.0,Force India,2011
+846,4.0,Renault,2011
+846,2.0,Williams,2011
+846,1.0,Toro Rosso,2011
+846,0.0,Mercedes,2011
+846,0.0,Lotus,2011
+846,0.0,Virgin,2011
+846,0.0,HRT,2011
+847,25.0,McLaren,2011
+847,33.0,Red Bull,2011
+847,12.0,Mercedes,2011
+847,10.0,Renault,2011
+847,8.0,Ferrari,2011
+847,6.0,Sauber,2011
+847,5.0,Toro Rosso,2011
+847,2.0,Williams,2011
+847,0.0,HRT,2011
+847,0.0,Virgin,2011
+847,0.0,Lotus,2011
+847,0.0,Force India,2011
+848,40.0,Red Bull,2011
+848,28.0,Ferrari,2011
+848,20.0,McLaren,2011
+848,6.0,Mercedes,2011
+848,4.0,Toro Rosso,2011
+848,2.0,Force India,2011
+848,1.0,Renault,2011
+848,0.0,Sauber,2011
+848,0.0,Williams,2011
+848,0.0,Lotus,2011
+848,0.0,Virgin,2011
+848,0.0,HRT,2011
+849,35.0,Ferrari,2011
+849,33.0,Red Bull,2011
+849,12.0,McLaren,2011
+849,10.0,Mercedes,2011
+849,6.0,Sauber,2011
+849,4.0,Renault,2011
+849,1.0,Toro Rosso,2011
+849,0.0,Force India,2011
+849,0.0,Williams,2011
+849,0.0,Virgin,2011
+849,0.0,HRT,2011
+849,0.0,Lotus,2011
+850,25.0,McLaren,2011
+850,28.0,Ferrari,2011
+850,27.0,Red Bull,2011
+850,8.0,Force India,2011
+850,10.0,Mercedes,2011
+850,2.0,Sauber,2011
+850,1.0,Renault,2011
+850,0.0,Toro Rosso,2011
+850,0.0,Williams,2011
+850,0.0,Lotus,2011
+850,0.0,Virgin,2011
+850,0.0,HRT,2011
+851,37.0,McLaren,2011
+851,28.0,Red Bull,2011
+851,23.0,Ferrari,2011
+851,6.0,Force India,2011
+851,5.0,Toro Rosso,2011
+851,2.0,Mercedes,2011
+851,0.0,Sauber,2011
+851,0.0,Renault,2011
+851,0.0,Williams,2011
+851,0.0,Virgin,2011
+851,0.0,HRT,2011
+851,0.0,Lotus,2011
+852,43.0,Red Bull,2011
+852,15.0,McLaren,2011
+852,16.0,Ferrari,2011
+852,18.0,Mercedes,2011
+852,6.0,Force India,2011
+852,2.0,Renault,2011
+852,1.0,Williams,2011
+852,0.0,Sauber,2011
+852,0.0,Lotus,2011
+852,0.0,Virgin,2011
+852,0.0,HRT,2011
+852,0.0,Toro Rosso,2011
+853,25.0,Red Bull,2011
+853,30.0,McLaren,2011
+853,23.0,Ferrari,2011
+853,10.0,Mercedes,2011
+853,7.0,Toro Rosso,2011
+853,4.0,Force India,2011
+853,2.0,Renault,2011
+853,0.0,Williams,2011
+853,0.0,Lotus,2011
+853,0.0,Virgin,2011
+853,0.0,HRT,2011
+853,0.0,Sauber,2011
+854,40.0,Red Bull,2011
+854,28.0,McLaren,2011
+854,14.0,Ferrari,2011
+854,12.0,Force India,2011
+854,6.0,Mercedes,2011
+854,1.0,Sauber,2011
+854,0.0,Williams,2011
+854,0.0,Toro Rosso,2011
+854,0.0,Renault,2011
+854,0.0,Lotus,2011
+854,0.0,Virgin,2011
+854,0.0,HRT,2011
+855,35.0,McLaren,2011
+855,24.0,Ferrari,2011
+855,27.0,Red Bull,2011
+855,9.0,Mercedes,2011
+855,4.0,Sauber,2011
+855,2.0,Renault,2011
+855,0.0,Force India,2011
+855,0.0,Williams,2011
+855,0.0,Toro Rosso,2011
+855,0.0,Lotus,2011
+855,0.0,Virgin,2011
+855,0.0,HRT,2011
+856,40.0,Red Bull,2011
+856,30.0,McLaren,2011
+856,18.0,Ferrari,2011
+856,8.0,Toro Rosso,2011
+856,4.0,Mercedes,2011
+856,1.0,Force India,2011
+856,0.0,Williams,2011
+856,0.0,Renault,2011
+856,0.0,Lotus,2011
+856,0.0,Sauber,2011
+856,0.0,Virgin,2011
+856,0.0,HRT,2011
+857,37.0,Red Bull,2011
+857,24.0,McLaren,2011
+857,15.0,Ferrari,2011
+857,18.0,Mercedes,2011
+857,4.0,Toro Rosso,2011
+857,2.0,Force India,2011
+857,1.0,Sauber,2011
+857,0.0,Renault,2011
+857,0.0,Lotus,2011
+857,0.0,Williams,2011
+857,0.0,Virgin,2011
+857,0.0,HRT,2011
+858,40.0,McLaren,2011
+858,28.0,Ferrari,2011
+858,12.0,Red Bull,2011
+858,14.0,Mercedes,2011
+858,6.0,Force India,2011
+858,1.0,Sauber,2011
+858,0.0,Williams,2011
+858,0.0,Renault,2011
+858,0.0,Toro Rosso,2011
+858,0.0,Lotus,2011
+858,0.0,Virgin,2011
+858,0.0,HRT,2011
+859,43.0,Red Bull,2011
+859,15.0,McLaren,2011
+859,22.0,Ferrari,2011
+859,12.0,Force India,2011
+859,6.0,Mercedes,2011
+859,2.0,Sauber,2011
+859,1.0,Renault,2011
+859,0.0,Toro Rosso,2011
+859,0.0,Williams,2011
+859,0.0,Lotus,2011
+859,0.0,Virgin,2011
+859,0.0,HRT,2011
+860,40.0,McLaren,2012
+860,30.0,Red Bull,2012
+860,10.0,Ferrari,2012
+860,12.0,Sauber,2012
+860,6.0,Lotus F1,2012
+860,2.0,Toro Rosso,2012
+860,1.0,Force India,2012
+860,0.0,Mercedes,2012
+860,0.0,Williams,2012
+860,0.0,Marussia,2012
+860,0.0,Caterham,2012
+861,25.0,Ferrari,2012
+861,18.0,Sauber,2012
+861,15.0,McLaren,2012
+861,12.0,Red Bull,2012
+861,10.0,Lotus F1,2012
+861,8.0,Williams,2012
+861,8.0,Force India,2012
+861,4.0,Toro Rosso,2012
+861,1.0,Mercedes,2012
+861,0.0,Caterham,2012
+861,0.0,Marussia,2012
+861,0.0,HRT,2012
+862,25.0,Mercedes,2012
+862,33.0,McLaren,2012
+862,22.0,Red Bull,2012
+862,8.0,Lotus F1,2012
+862,10.0,Williams,2012
+862,2.0,Ferrari,2012
+862,1.0,Sauber,2012
+862,0.0,Force India,2012
+862,0.0,Toro Rosso,2012
+862,0.0,Caterham,2012
+862,0.0,Marussia,2012
+862,0.0,HRT,2012
+863,37.0,Red Bull,2012
+863,33.0,Lotus F1,2012
+863,11.0,Mercedes,2012
+863,8.0,Force India,2012
+863,8.0,Ferrari,2012
+863,4.0,McLaren,2012
+863,0.0,Sauber,2012
+863,0.0,Toro Rosso,2012
+863,0.0,Caterham,2012
+863,0.0,Marussia,2012
+863,0.0,HRT,2012
+863,0.0,Williams,2012
+864,25.0,Williams,2012
+864,18.0,Ferrari,2012
+864,27.0,Lotus F1,2012
+864,10.0,Sauber,2012
+864,8.0,Red Bull,2012
+864,6.0,Mercedes,2012
+864,6.0,McLaren,2012
+864,1.0,Force India,2012
+864,0.0,Toro Rosso,2012
+864,0.0,Caterham,2012
+864,0.0,Marussia,2012
+864,0.0,HRT,2012
+865,37.0,Red Bull,2012
+865,18.0,Mercedes,2012
+865,23.0,Ferrari,2012
+865,10.0,McLaren,2012
+865,10.0,Force India,2012
+865,2.0,Lotus F1,2012
+865,1.0,Williams,2012
+865,0.0,Sauber,2012
+865,0.0,Toro Rosso,2012
+865,0.0,Caterham,2012
+865,0.0,Marussia,2012
+865,0.0,HRT,2012
+866,25.0,McLaren,2012
+866,22.0,Lotus F1,2012
+866,17.0,Sauber,2012
+866,18.0,Red Bull,2012
+866,11.0,Ferrari,2012
+866,8.0,Mercedes,2012
+866,0.0,Force India,2012
+866,0.0,Williams,2012
+866,0.0,Toro Rosso,2012
+866,0.0,Caterham,2012
+866,0.0,Marussia,2012
+866,0.0,HRT,2012
+867,25.0,Ferrari,2012
+867,18.0,Lotus F1,2012
+867,23.0,Mercedes,2012
+867,12.0,Red Bull,2012
+867,16.0,Force India,2012
+867,4.0,McLaren,2012
+867,2.0,Sauber,2012
+867,1.0,Williams,2012
+867,0.0,Toro Rosso,2012
+867,0.0,Caterham,2012
+867,0.0,Marussia,2012
+867,0.0,HRT,2012
+868,40.0,Red Bull,2012
+868,30.0,Ferrari,2012
+868,18.0,Lotus F1,2012
+868,6.0,Mercedes,2012
+868,5.0,McLaren,2012
+868,2.0,Williams,2012
+868,0.0,Sauber,2012
+868,0.0,Force India,2012
+868,0.0,Toro Rosso,2012
+868,0.0,Caterham,2012
+868,0.0,Marussia,2012
+868,0.0,HRT,2012
+869,25.0,Ferrari,2012
+869,14.0,Red Bull,2012
+869,18.0,McLaren,2012
+869,15.0,Lotus F1,2012
+869,20.0,Sauber,2012
+869,7.0,Mercedes,2012
+869,2.0,Force India,2012
+869,0.0,Toro Rosso,2012
+869,0.0,Williams,2012
+869,0.0,Caterham,2012
+869,0.0,Marussia,2012
+869,0.0,HRT,2012
+870,33.0,McLaren,2012
+870,33.0,Lotus F1,2012
+870,16.0,Red Bull,2012
+870,12.0,Ferrari,2012
+870,6.0,Williams,2012
+870,1.0,Mercedes,2012
+870,0.0,Force India,2012
+870,0.0,Sauber,2012
+870,0.0,Toro Rosso,2012
+870,0.0,Caterham,2012
+870,0.0,Marussia,2012
+870,0.0,HRT,2012
+871,25.0,McLaren,2012
+871,26.0,Red Bull,2012
+871,15.0,Lotus F1,2012
+871,13.0,Force India,2012
+871,10.0,Ferrari,2012
+871,6.0,Mercedes,2012
+871,6.0,Toro Rosso,2012
+871,0.0,Williams,2012
+871,0.0,Sauber,2012
+871,0.0,Caterham,2012
+871,0.0,Marussia,2012
+871,0.0,HRT,2012
+872,25.0,McLaren,2012
+872,20.0,Sauber,2012
+872,27.0,Ferrari,2012
+872,10.0,Lotus F1,2012
+872,14.0,Mercedes,2012
+872,4.0,Force India,2012
+872,1.0,Williams,2012
+872,0.0,Toro Rosso,2012
+872,0.0,Caterham,2012
+872,0.0,Marussia,2012
+872,0.0,HRT,2012
+872,0.0,Red Bull,2012
+873,25.0,Red Bull,2012
+873,18.0,McLaren,2012
+873,19.0,Ferrari,2012
+873,12.0,Force India,2012
+873,10.0,Mercedes,2012
+873,14.0,Lotus F1,2012
+873,2.0,Toro Rosso,2012
+873,1.0,Sauber,2012
+873,0.0,Marussia,2012
+873,0.0,Caterham,2012
+874,27.0,Red Bull,2012
+873,0.0,Williams,2012
+873,0.0,HRT,2012
+874,18.0,Ferrari,2012
+874,15.0,Sauber,2012
+874,22.0,McLaren,2012
+874,8.0,Lotus F1,2012
+874,6.0,Force India,2012
+874,4.0,Williams,2012
+874,1.0,Toro Rosso,2012
+874,0.0,Mercedes,2012
+874,0.0,Caterham,2012
+874,0.0,Marussia,2012
+874,0.0,HRT,2012
+875,43.0,Red Bull,2012
+875,27.0,Ferrari,2012
+875,16.0,Lotus F1,2012
+875,8.0,Force India,2012
+875,6.0,Toro Rosso,2012
+875,1.0,McLaren,2012
+875,0.0,Sauber,2012
+875,0.0,Mercedes,2012
+875,0.0,Williams,2012
+875,0.0,Caterham,2012
+875,0.0,Marussia,2012
+875,0.0,HRT,2012
+876,40.0,Red Bull,2012
+876,26.0,Ferrari,2012
+876,22.0,McLaren,2012
+876,8.0,Lotus F1,2012
+876,4.0,Force India,2012
+876,1.0,Williams,2012
+876,0.0,Mercedes,2012
+876,0.0,Toro Rosso,2012
+876,0.0,Sauber,2012
+876,0.0,Caterham,2012
+876,0.0,Marussia,2012
+876,0.0,HRT,2012
+877,25.0,Lotus F1,2012
+877,24.0,Ferrari,2012
+877,15.0,Red Bull,2012
+877,12.0,McLaren,2012
+877,14.0,Williams,2012
+877,8.0,Sauber,2012
+877,2.0,Force India,2012
+877,1.0,Toro Rosso,2012
+877,0.0,Mercedes,2012
+877,0.0,Caterham,2012
+877,0.0,Marussia,2012
+877,0.0,HRT,2012
+878,35.0,McLaren,2012
+878,18.0,Red Bull,2012
+878,27.0,Ferrari,2012
+878,14.0,Lotus F1,2012
+878,4.0,Force India,2012
+878,3.0,Williams,2012
+878,0.0,Sauber,2012
+878,0.0,Toro Rosso,2012
+878,0.0,Mercedes,2012
+878,0.0,Caterham,2012
+878,0.0,Marussia,2012
+878,0.0,HRT,2012
+879,25.0,McLaren,2012
+879,33.0,Ferrari,2012
+879,20.0,Red Bull,2012
+879,10.0,Force India,2012
+879,6.0,Mercedes,2012
+879,4.0,Toro Rosso,2012
+879,2.0,Sauber,2012
+879,1.0,Lotus F1,2012
+879,0.0,Caterham,2012
+879,0.0,Marussia,2012
+879,0.0,HRT,2012
+879,0.0,Williams,2012
+880,26.0,Lotus F1,2013
+880,30.0,Ferrari,2013
+880,23.0,Red Bull,2013
+880,10.0,Mercedes,2013
+880,10.0,Force India,2013
+880,2.0,McLaren,2013
+880,0.0,Toro Rosso,2013
+880,0.0,Sauber,2013
+880,0.0,Williams,2013
+880,0.0,Marussia,2013
+880,0.0,Caterham,2013
+881,43.0,Red Bull,2013
+881,27.0,Mercedes,2013
+881,10.0,Ferrari,2013
+881,14.0,Lotus F1,2013
+881,4.0,Sauber,2013
+881,2.0,McLaren,2013
+881,1.0,Toro Rosso,2013
+881,0.0,Williams,2013
+881,0.0,Marussia,2013
+881,0.0,Caterham,2013
+881,0.0,Force India,2013
+882,33.0,Ferrari,2013
+882,20.0,Lotus F1,2013
+882,15.0,Mercedes,2013
+882,12.0,Red Bull,2013
+882,10.0,McLaren,2013
+882,6.0,Toro Rosso,2013
+882,4.0,Force India,2013
+882,1.0,Sauber,2013
+882,0.0,Williams,2013
+882,0.0,Marussia,2013
+882,0.0,Caterham,2013
+883,31.0,Red Bull,2013
+883,33.0,Lotus F1,2013
+883,12.0,Force India,2013
+883,12.0,Mercedes,2013
+883,9.0,McLaren,2013
+883,4.0,Ferrari,2013
+883,0.0,Williams,2013
+883,0.0,Sauber,2013
+883,0.0,Toro Rosso,2013
+883,0.0,Caterham,2013
+883,0.0,Marussia,2013
+884,40.0,Ferrari,2013
+884,18.0,Lotus F1,2013
+884,22.0,Red Bull,2013
+884,8.0,Mercedes,2013
+884,6.0,Force India,2013
+884,6.0,McLaren,2013
+884,1.0,Toro Rosso,2013
+884,0.0,Sauber,2013
+884,0.0,Williams,2013
+884,0.0,Caterham,2013
+884,0.0,Marussia,2013
+885,37.0,Mercedes,2013
+885,33.0,Red Bull,2013
+885,12.0,Force India,2013
+885,8.0,McLaren,2013
+885,6.0,Ferrari,2013
+885,4.0,Toro Rosso,2013
+885,1.0,Lotus F1,2013
+885,0.0,Sauber,2013
+885,0.0,Williams,2013
+885,0.0,Marussia,2013
+885,0.0,Caterham,2013
+886,37.0,Red Bull,2013
+886,22.0,Ferrari,2013
+886,25.0,Mercedes,2013
+886,8.0,Toro Rosso,2013
+886,7.0,Force India,2013
+886,2.0,Lotus F1,2013
+886,0.0,McLaren,2013
+886,0.0,Williams,2013
+886,0.0,Marussia,2013
+886,0.0,Caterham,2013
+886,0.0,Sauber,2013
+887,37.0,Mercedes,2013
+887,18.0,Red Bull,2013
+887,23.0,Ferrari,2013
+887,10.0,Lotus F1,2013
+887,8.0,Force India,2013
+887,4.0,Toro Rosso,2013
+887,1.0,Sauber,2013
+887,0.0,Williams,2013
+887,0.0,McLaren,2013
+887,0.0,Caterham,2013
+887,0.0,Marussia,2013
+888,31.0,Red Bull,2013
+888,33.0,Lotus F1,2013
+888,12.0,Ferrari,2013
+888,12.0,Mercedes,2013
+888,12.0,McLaren,2013
+888,1.0,Sauber,2013
+888,0.0,Force India,2013
+888,0.0,Toro Rosso,2013
+888,0.0,Williams,2013
+888,0.0,Caterham,2013
+888,0.0,Marussia,2013
+890,25.0,Mercedes,2013
+890,26.0,Lotus F1,2013
+890,27.0,Red Bull,2013
+890,14.0,Ferrari,2013
+890,8.0,McLaren,2013
+890,1.0,Williams,2013
+890,0.0,Sauber,2013
+890,0.0,Toro Rosso,2013
+890,0.0,Caterham,2013
+890,0.0,Marussia,2013
+890,0.0,Force India,2013
+891,35.0,Red Bull,2013
+891,24.0,Ferrari,2013
+891,27.0,Mercedes,2013
+891,8.0,McLaren,2013
+891,4.0,Lotus F1,2013
+891,2.0,Force India,2013
+891,1.0,Toro Rosso,2013
+891,0.0,Sauber,2013
+891,0.0,Williams,2013
+891,0.0,Caterham,2013
+891,0.0,Marussia,2013
+892,40.0,Red Bull,2013
+892,30.0,Ferrari,2013
+892,10.0,Sauber,2013
+892,10.0,Mercedes,2013
+892,6.0,Toro Rosso,2013
+892,4.0,Lotus F1,2013
+892,1.0,McLaren,2013
+892,0.0,Williams,2013
+892,0.0,Force India,2013
+892,0.0,Caterham,2013
+892,0.0,Marussia,2013
+893,25.0,Red Bull,2013
+893,26.0,Ferrari,2013
+893,15.0,Lotus F1,2013
+893,22.0,Mercedes,2013
+893,10.0,McLaren,2013
+893,2.0,Sauber,2013
+893,1.0,Force India,2013
+893,0.0,Williams,2013
+893,0.0,Toro Rosso,2013
+893,0.0,Caterham,2013
+893,0.0,Marussia,2013
+894,25.0,Red Bull,2013
+894,33.0,Lotus F1,2013
+894,12.0,Sauber,2013
+894,16.0,Mercedes,2013
+894,10.0,Ferrari,2013
+894,5.0,McLaren,2013
+894,0.0,Williams,2013
+894,0.0,Caterham,2013
+894,0.0,Marussia,2013
+894,0.0,Toro Rosso,2013
+894,0.0,Force India,2013
+895,43.0,Red Bull,2013
+895,25.0,Lotus F1,2013
+895,13.0,Ferrari,2013
+895,14.0,Sauber,2013
+895,4.0,Mercedes,2013
+895,2.0,McLaren,2013
+895,0.0,Force India,2013
+895,0.0,Toro Rosso,2013
+895,0.0,Williams,2013
+895,0.0,Caterham,2013
+895,0.0,Marussia,2013
+896,25.0,Red Bull,2013
+896,26.0,Mercedes,2013
+896,21.0,Lotus F1,2013
+896,12.0,Ferrari,2013
+896,10.0,McLaren,2013
+896,6.0,Force India,2013
+896,1.0,Toro Rosso,2013
+896,0.0,Williams,2013
+896,0.0,Sauber,2013
+896,0.0,Marussia,2013
+896,0.0,Caterham,2013
+897,43.0,Red Bull,2013
+897,21.0,Mercedes,2013
+897,12.0,Lotus F1,2013
+897,14.0,Ferrari,2013
+897,9.0,Force India,2013
+897,2.0,McLaren,2013
+897,0.0,Williams,2013
+897,0.0,Sauber,2013
+897,0.0,Toro Rosso,2013
+897,0.0,Caterham,2013
+897,0.0,Marussia,2013
+898,40.0,Red Bull,2013
+898,18.0,Lotus F1,2013
+898,14.0,Mercedes,2013
+898,10.0,Ferrari,2013
+898,8.0,Sauber,2013
+898,7.0,McLaren,2013
+898,4.0,Williams,2013
+898,0.0,Toro Rosso,2013
+898,0.0,Force India,2013
+898,0.0,Marussia,2013
+898,0.0,Caterham,2013
+899,43.0,Red Bull,2013
+899,21.0,Ferrari,2013
+899,20.0,McLaren,2013
+899,12.0,Mercedes,2013
+899,4.0,Sauber,2013
+899,1.0,Toro Rosso,2013
+899,0.0,Force India,2013
+899,0.0,Lotus F1,2013
+899,0.0,Williams,2013
+899,0.0,Marussia,2013
+899,0.0,Caterham,2013
+900,25.0,Mercedes,2014
+900,0.0,Red Bull,2014
+900,33.0,McLaren,2014
+900,18.0,Ferrari,2014
+900,10.0,Williams,2014
+900,9.0,Force India,2014
+900,6.0,Toro Rosso,2014
+900,0.0,Sauber,2014
+900,0.0,Marussia,2014
+900,0.0,Lotus F1,2014
+900,0.0,Caterham,2014
+901,43.0,Mercedes,2014
+901,15.0,Red Bull,2014
+901,12.0,Ferrari,2014
+901,10.0,Force India,2014
+901,10.0,McLaren,2014
+901,10.0,Williams,2014
+901,1.0,Toro Rosso,2014
+901,0.0,Lotus F1,2014
+901,0.0,Caterham,2014
+901,0.0,Marussia,2014
+901,0.0,Sauber,2014
+902,43.0,Mercedes,2014
+902,25.0,Force India,2014
+902,20.0,Red Bull,2014
+902,10.0,Williams,2014
+902,3.0,Ferrari,2014
+902,0.0,Toro Rosso,2014
+902,0.0,Lotus F1,2014
+902,0.0,Marussia,2014
+902,0.0,Caterham,2014
+902,0.0,McLaren,2014
+902,0.0,Sauber,2014
+903,43.0,Mercedes,2014
+903,19.0,Ferrari,2014
+903,22.0,Red Bull,2014
+903,10.0,Force India,2014
+903,6.0,Williams,2014
+903,1.0,Toro Rosso,2014
+903,0.0,McLaren,2014
+903,0.0,Lotus F1,2014
+903,0.0,Sauber,2014
+903,0.0,Caterham,2014
+903,0.0,Marussia,2014
+1007,25.0,Red Bull,2018
+904,43.0,Mercedes,2014
+904,27.0,Red Bull,2014
+904,10.0,Williams,2014
+904,14.0,Ferrari,2014
+904,4.0,Lotus F1,2014
+904,3.0,Force India,2014
+904,0.0,McLaren,2014
+904,0.0,Toro Rosso,2014
+904,0.0,Sauber,2014
+904,0.0,Marussia,2014
+904,0.0,Caterham,2014
+905,43.0,Mercedes,2014
+905,15.0,Red Bull,2014
+905,12.0,Ferrari,2014
+905,10.0,Force India,2014
+905,9.0,McLaren,2014
+905,6.0,Williams,2014
+905,4.0,Lotus F1,2014
+905,2.0,Marussia,2014
+905,0.0,Caterham,2014
+905,0.0,Sauber,2014
+905,0.0,Toro Rosso,2014
+906,40.0,Red Bull,2014
+906,18.0,Mercedes,2014
+906,14.0,McLaren,2014
+906,10.0,Force India,2014
+906,9.0,Ferrari,2014
+906,6.0,Williams,2014
+906,4.0,Toro Rosso,2014
+906,0.0,Sauber,2014
+906,0.0,Lotus F1,2014
+906,0.0,Caterham,2014
+906,0.0,Marussia,2014
+907,43.0,Mercedes,2014
+907,27.0,Williams,2014
+907,11.0,Ferrari,2014
+907,10.0,Force India,2014
+907,6.0,McLaren,2014
+907,4.0,Red Bull,2014
+907,0.0,Lotus F1,2014
+907,0.0,Sauber,2014
+907,0.0,Marussia,2014
+907,0.0,Caterham,2014
+907,0.0,Toro Rosso,2014
+908,25.0,Mercedes,2014
+908,18.0,Williams,2014
+908,25.0,Red Bull,2014
+908,18.0,McLaren,2014
+908,8.0,Ferrari,2014
+908,4.0,Force India,2014
+908,3.0,Toro Rosso,2014
+908,0.0,Lotus F1,2014
+908,0.0,Sauber,2014
+908,0.0,Marussia,2014
+908,0.0,Caterham,2014
+909,40.0,Mercedes,2014
+909,18.0,Williams,2014
+909,20.0,Red Bull,2014
+909,10.0,Ferrari,2014
+909,7.0,Force India,2014
+909,6.0,McLaren,2014
+909,0.0,Lotus F1,2014
+909,0.0,Toro Rosso,2014
+909,0.0,Sauber,2014
+909,0.0,Marussia,2014
+909,0.0,Caterham,2014
+910,31.0,Red Bull,2014
+910,26.0,Ferrari,2014
+910,27.0,Mercedes,2014
+910,14.0,Williams,2014
+910,2.0,Toro Rosso,2014
+910,1.0,McLaren,2014
+910,0.0,Sauber,2014
+910,0.0,Lotus F1,2014
+910,0.0,Marussia,2014
+910,0.0,Caterham,2014
+910,0.0,Force India,2014
+911,35.0,Red Bull,2014
+911,18.0,Mercedes,2014
+911,15.0,Williams,2014
+911,18.0,Ferrari,2014
+911,8.0,McLaren,2014
+911,5.0,Force India,2014
+911,2.0,Toro Rosso,2014
+911,0.0,Sauber,2014
+911,0.0,Marussia,2014
+911,0.0,Caterham,2014
+911,0.0,Lotus F1,2014
+912,43.0,Mercedes,2014
+912,27.0,Williams,2014
+912,18.0,Red Bull,2014
+912,6.0,Force India,2014
+912,5.0,McLaren,2014
+912,2.0,Ferrari,2014
+912,0.0,Toro Rosso,2014
+912,0.0,Lotus F1,2014
+912,0.0,Sauber,2014
+912,0.0,Caterham,2014
+912,0.0,Marussia,2014
+913,25.0,Mercedes,2014
+913,33.0,Red Bull,2014
+913,16.0,Ferrari,2014
+913,10.0,Williams,2014
+913,8.0,Toro Rosso,2014
+913,8.0,Force India,2014
+913,1.0,McLaren,2014
+913,0.0,Lotus F1,2014
+913,0.0,Caterham,2014
+913,0.0,Marussia,2014
+913,0.0,Sauber,2014
+914,43.0,Mercedes,2014
+914,27.0,Red Bull,2014
+914,10.0,McLaren,2014
+914,14.0,Williams,2014
+914,5.0,Force India,2014
+914,2.0,Toro Rosso,2014
+914,0.0,Ferrari,2014
+914,0.0,Sauber,2014
+914,0.0,Lotus F1,2014
+914,0.0,Caterham,2014
+914,0.0,Marussia,2014
+915,43.0,Mercedes,2014
+915,15.0,Williams,2014
+915,22.0,McLaren,2014
+915,10.0,Ferrari,2014
+915,10.0,Red Bull,2014
+915,1.0,Force India,2014
+915,0.0,Toro Rosso,2014
+915,0.0,Sauber,2014
+915,0.0,Lotus F1,2014
+915,0.0,Caterham,2014
+915,0.0,Marussia,2014
+916,43.0,Mercedes,2014
+916,21.0,Red Bull,2014
+916,22.0,Williams,2014
+916,8.0,Ferrari,2014
+916,4.0,McLaren,2014
+916,1.0,Toro Rosso,2014
+916,2.0,Lotus F1,2014
+916,0.0,Sauber,2014
+916,0.0,Force India,2014
+917,43.0,Mercedes,2014
+917,16.0,Williams,2014
+917,14.0,McLaren,2014
+917,10.0,Red Bull,2014
+917,14.0,Ferrari,2014
+917,4.0,Force India,2014
+917,0.0,Toro Rosso,2014
+917,0.0,Lotus F1,2014
+917,0.0,Sauber,2014
+918,50.0,Mercedes,2014
+918,66.0,Williams,2014
+918,32.0,Red Bull,2014
+918,20.0,McLaren,2014
+918,28.0,Force India,2014
+918,6.0,Ferrari,2014
+918,0.0,Toro Rosso,2014
+918,0.0,Lotus F1,2014
+918,0.0,Sauber,2014
+918,0.0,Caterham,2014
+1007,33.0,Ferrari,2018
+926,43.0,Mercedes,2015
+926,15.0,Ferrari,2015
+926,12.0,Williams,2015
+926,14.0,Sauber,2015
+926,8.0,Red Bull,2015
+926,7.0,Force India,2015
+926,2.0,Toro Rosso,2015
+926,0.0,McLaren,2015
+926,0.0,Lotus F1,2015
+927,37.0,Ferrari,2015
+927,33.0,Mercedes,2015
+927,18.0,Williams,2015
+927,10.0,Toro Rosso,2015
+927,3.0,Red Bull,2015
+927,0.0,Lotus F1,2015
+927,0.0,Sauber,2015
+927,0.0,Force India,2015
+927,0.0,Manor Marussia,2015
+927,0.0,McLaren,2015
+928,43.0,Mercedes,2015
+928,27.0,Ferrari,2015
+928,18.0,Williams,2015
+928,6.0,Lotus F1,2015
+928,5.0,Sauber,2015
+928,2.0,Red Bull,2015
+928,0.0,Force India,2015
+928,0.0,McLaren,2015
+928,0.0,Toro Rosso,2015
+928,0.0,Manor Marussia,2015
+929,40.0,Mercedes,2015
+929,28.0,Ferrari,2015
+929,13.0,Williams,2015
+929,10.0,Red Bull,2015
+929,6.0,Lotus F1,2015
+929,4.0,Force India,2015
+929,0.0,McLaren,2015
+929,0.0,Sauber,2015
+929,0.0,Manor Marussia,2015
+929,0.0,Toro Rosso,2015
+930,43.0,Mercedes,2015
+930,25.0,Ferrari,2015
+930,20.0,Williams,2015
+930,7.0,Red Bull,2015
+930,4.0,Lotus F1,2015
+930,2.0,Toro Rosso,2015
+930,0.0,Sauber,2015
+930,0.0,Force India,2015
+930,0.0,McLaren,2015
+930,0.0,Manor Marussia,2015
+931,40.0,Mercedes,2015
+931,26.0,Ferrari,2015
+931,22.0,Red Bull,2015
+931,6.0,Force India,2015
+931,4.0,McLaren,2015
+931,2.0,Sauber,2015
+931,1.0,Toro Rosso,2015
+931,0.0,Lotus F1,2015
+931,0.0,Williams,2015
+931,0.0,Manor Marussia,2015
+932,43.0,Mercedes,2015
+932,23.0,Williams,2015
+932,22.0,Ferrari,2015
+932,7.0,Lotus F1,2015
+932,4.0,Force India,2015
+932,2.0,Red Bull,2015
+932,0.0,Toro Rosso,2015
+932,0.0,Sauber,2015
+932,0.0,Manor Marussia,2015
+932,0.0,McLaren,2015
+933,43.0,Mercedes,2015
+933,25.0,Williams,2015
+933,12.0,Ferrari,2015
+933,10.0,Force India,2015
+933,6.0,Lotus F1,2015
+933,4.0,Toro Rosso,2015
+933,1.0,Red Bull,2015
+933,0.0,Sauber,2015
+933,0.0,Manor Marussia,2015
+933,0.0,McLaren,2015
+934,43.0,Mercedes,2015
+934,19.0,Ferrari,2015
+934,22.0,Williams,2015
+934,8.0,Red Bull,2015
+934,8.0,Force India,2015
+934,1.0,McLaren,2015
+934,0.0,Sauber,2015
+934,0.0,Manor Marussia,2015
+934,0.0,Toro Rosso,2015
+934,0.0,Lotus F1,2015
+936,25.0,Ferrari,2015
+936,33.0,Red Bull,2015
+936,12.0,Toro Rosso,2015
+936,12.0,McLaren,2015
+936,12.0,Mercedes,2015
+936,6.0,Lotus F1,2015
+936,1.0,Sauber,2015
+936,0.0,Williams,2015
+936,0.0,Manor Marussia,2015
+936,0.0,Force India,2015
+937,43.0,Mercedes,2015
+937,15.0,Lotus F1,2015
+937,12.0,Red Bull,2015
+937,10.0,Force India,2015
+937,10.0,Williams,2015
+937,6.0,Ferrari,2015
+937,4.0,Toro Rosso,2015
+937,1.0,Sauber,2015
+937,0.0,McLaren,2015
+937,0.0,Marussia,2015
+937,0.0,Manor Marussia,2015
+938,25.0,Mercedes,2015
+938,28.0,Ferrari,2015
+938,27.0,Williams,2015
+938,14.0,Force India,2015
+938,5.0,Red Bull,2015
+938,2.0,Sauber,2015
+938,0.0,Toro Rosso,2015
+938,0.0,McLaren,2015
+938,0.0,Manor Marussia,2015
+938,0.0,Lotus F1,2015
+939,40.0,Ferrari,2015
+939,26.0,Red Bull,2015
+939,12.0,Mercedes,2015
+939,10.0,Williams,2015
+939,6.0,Force India,2015
+939,6.0,Toro Rosso,2015
+939,1.0,Sauber,2015
+939,0.0,Lotus F1,2015
+939,0.0,Manor Marussia,2015
+939,0.0,McLaren,2015
+940,43.0,Mercedes,2015
+940,27.0,Ferrari,2015
+940,10.0,Williams,2015
+940,8.0,Force India,2015
+940,10.0,Lotus F1,2015
+940,3.0,Toro Rosso,2015
+940,0.0,McLaren,2015
+940,0.0,Red Bull,2015
+940,0.0,Sauber,2015
+940,0.0,Manor Marussia,2015
+941,25.0,Mercedes,2015
+941,22.0,Ferrari,2015
+941,15.0,Force India,2015
+941,12.0,Williams,2015
+941,10.0,Red Bull,2015
+941,8.0,Sauber,2015
+941,6.0,Lotus F1,2015
+941,2.0,McLaren,2015
+941,1.0,Toro Rosso,2015
+941,0.0,Manor Marussia,2015
+941,0.0,Marussia,2015
+942,43.0,Mercedes,2015
+942,15.0,Ferrari,2015
+942,18.0,Toro Rosso,2015
+942,10.0,Force India,2015
+942,8.0,McLaren,2015
+942,4.0,Lotus F1,2015
+942,2.0,Sauber,2015
+942,1.0,Red Bull,2015
+942,0.0,Manor Marussia,2015
+942,0.0,Williams,2015
+943,43.0,Mercedes,2015
+943,23.0,Williams,2015
+943,22.0,Red Bull,2015
+943,10.0,Force India,2015
+943,2.0,Toro Rosso,2015
+943,1.0,Lotus F1,2015
+943,0.0,Sauber,2015
+943,0.0,McLaren,2015
+943,0.0,Marussia,2015
+943,0.0,Ferrari,2015
+944,43.0,Mercedes,2015
+944,27.0,Ferrari,2015
+944,10.0,Williams,2015
+944,8.0,Force India,2015
+944,6.0,Red Bull,2015
+944,5.0,Lotus F1,2015
+944,2.0,Toro Rosso,2015
+944,0.0,Sauber,2015
+944,0.0,McLaren,2015
+944,0.0,Manor Marussia,2015
+943,0.0,Manor Marussia,2015
+945,43.0,Mercedes,2015
+945,27.0,Ferrari,2015
+945,16.0,Force India,2015
+945,9.0,Red Bull,2015
+945,4.0,Williams,2015
+945,2.0,Lotus F1,2015
+945,0.0,Toro Rosso,2015
+945,0.0,McLaren,2015
+945,0.0,Sauber,2015
+945,0.0,Marussia,2015
+945,0.0,Manor Marussia,2015
+948,43.0,Mercedes,2016
+948,15.0,Ferrari,2016
+948,12.0,Red Bull,2016
+948,14.0,Williams,2016
+948,8.0,Haas F1 Team,2016
+948,6.0,Force India,2016
+948,3.0,Toro Rosso,2016
+948,0.0,Renault,2016
+948,0.0,McLaren,2016
+948,0.0,Sauber,2016
+948,0.0,Manor Marussia,2016
+949,40.0,Mercedes,2016
+949,18.0,Ferrari,2016
+949,18.0,Red Bull,2016
+949,10.0,Haas F1 Team,2016
+949,8.0,Toro Rosso,2016
+949,6.0,Williams,2016
+949,1.0,McLaren,2016
+949,0.0,Renault,2016
+949,0.0,Sauber,2016
+949,0.0,Manor Marussia,2016
+949,0.0,Force India,2016
+950,31.0,Mercedes,2016
+950,28.0,Ferrari,2016
+950,27.0,Red Bull,2016
+950,9.0,Williams,2016
+950,6.0,Toro Rosso,2016
+950,0.0,Force India,2016
+950,0.0,McLaren,2016
+950,0.0,Haas F1 Team,2016
+950,0.0,Sauber,2016
+950,0.0,Renault,2016
+950,0.0,Manor Marussia,2016
+951,43.0,Mercedes,2016
+951,15.0,Ferrari,2016
+951,22.0,Williams,2016
+951,9.0,McLaren,2016
+951,6.0,Renault,2016
+951,4.0,Haas F1 Team,2016
+951,2.0,Force India,2016
+951,0.0,Red Bull,2016
+951,0.0,Toro Rosso,2016
+951,0.0,Sauber,2016
+951,0.0,Manor Marussia,2016
+952,37.0,Red Bull,2016
+952,33.0,Ferrari,2016
+952,14.0,Williams,2016
+952,9.0,Toro Rosso,2016
+952,6.0,Force India,2016
+952,2.0,McLaren,2016
+952,0.0,Haas F1 Team,2016
+952,0.0,Sauber,2016
+952,0.0,Renault,2016
+952,0.0,Manor Marussia,2016
+952,0.0,Mercedes,2016
+953,31.0,Mercedes,2016
+953,18.0,Red Bull,2016
+953,23.0,Force India,2016
+953,12.0,Ferrari,2016
+953,12.0,McLaren,2016
+953,4.0,Toro Rosso,2016
+953,1.0,Williams,2016
+953,0.0,Haas F1 Team,2016
+953,0.0,Manor Marussia,2016
+953,0.0,Sauber,2016
+953,0.0,Renault,2016
+954,35.0,Mercedes,2016
+954,26.0,Ferrari,2016
+954,15.0,Williams,2016
+954,18.0,Red Bull,2016
+954,5.0,Force India,2016
+954,2.0,Toro Rosso,2016
+954,0.0,McLaren,2016
+954,0.0,Haas F1 Team,2016
+954,0.0,Sauber,2016
+954,0.0,Renault,2016
+954,0.0,Manor Marussia,2016
+955,35.0,Mercedes,2016
+955,30.0,Ferrari,2016
+955,17.0,Force India,2016
+955,9.0,Williams,2016
+955,10.0,Red Bull,2016
+955,0.0,McLaren,2016
+955,0.0,Sauber,2016
+955,0.0,Haas F1 Team,2016
+955,0.0,Renault,2016
+955,0.0,Manor Marussia,2016
+955,0.0,Toro Rosso,2016
+956,37.0,Mercedes,2016
+956,28.0,Red Bull,2016
+956,15.0,Ferrari,2016
+956,8.0,McLaren,2016
+956,6.0,Haas F1 Team,2016
+956,4.0,Toro Rosso,2016
+956,2.0,Williams,2016
+956,1.0,Manor Marussia,2016
+956,0.0,Renault,2016
+956,0.0,Sauber,2016
+956,0.0,Force India,2016
+957,40.0,Mercedes,2016
+957,30.0,Red Bull,2016
+957,12.0,Ferrari,2016
+957,14.0,Force India,2016
+957,5.0,Toro Rosso,2016
+957,0.0,Williams,2016
+957,0.0,McLaren,2016
+957,0.0,Sauber,2016
+957,0.0,Haas F1 Team,2016
+957,0.0,Renault,2016
+957,0.0,Manor Marussia,2016
+958,43.0,Mercedes,2016
+958,25.0,Red Bull,2016
+958,20.0,Ferrari,2016
+958,6.0,McLaren,2016
+958,4.0,Toro Rosso,2016
+958,2.0,Williams,2016
+958,1.0,Force India,2016
+958,0.0,Renault,2016
+958,0.0,Haas F1 Team,2016
+958,0.0,Sauber,2016
+958,0.0,Manor Marussia,2016
+959,37.0,Mercedes,2016
+959,33.0,Red Bull,2016
+959,18.0,Ferrari,2016
+959,7.0,Force India,2016
+959,4.0,McLaren,2016
+959,2.0,Williams,2016
+959,0.0,Haas F1 Team,2016
+959,0.0,Toro Rosso,2016
+959,0.0,Renault,2016
+959,0.0,Manor Marussia,2016
+959,0.0,Sauber,2016
+960,40.0,Mercedes,2016
+960,18.0,Red Bull,2016
+960,22.0,Force India,2016
+960,10.0,Ferrari,2016
+960,6.0,McLaren,2016
+960,5.0,Williams,2016
+960,0.0,Haas F1 Team,2016
+960,0.0,Toro Rosso,2016
+960,0.0,Renault,2016
+960,0.0,Manor Marussia,2016
+960,0.0,Sauber,2016
+961,43.0,Mercedes,2016
+961,27.0,Ferrari,2016
+961,16.0,Red Bull,2016
+961,10.0,Williams,2016
+961,5.0,Force India,2016
+961,0.0,Haas F1 Team,2016
+961,0.0,McLaren,2016
+961,0.0,Toro Rosso,2016
+961,0.0,Sauber,2016
+961,0.0,Renault,2016
+961,0.0,Manor Marussia,2016
+962,40.0,Mercedes,2016
+962,26.0,Red Bull,2016
+962,22.0,Ferrari,2016
+962,6.0,McLaren,2016
+962,4.0,Force India,2016
+962,2.0,Toro Rosso,2016
+962,1.0,Renault,2016
+962,0.0,Haas F1 Team,2016
+962,0.0,Williams,2016
+962,0.0,Sauber,2016
+962,0.0,Manor Marussia,2016
+963,43.0,Red Bull,2016
+963,15.0,Mercedes,2016
+963,12.0,Ferrari,2016
+963,10.0,Williams,2016
+963,12.0,Force India,2016
+963,8.0,McLaren,2016
+963,1.0,Renault,2016
+963,0.0,Toro Rosso,2016
+963,0.0,Sauber,2016
+963,0.0,Manor Marussia,2016
+963,0.0,Haas F1 Team,2016
+964,40.0,Mercedes,2016
+964,26.0,Red Bull,2016
+964,22.0,Ferrari,2016
+964,10.0,Force India,2016
+964,3.0,Williams,2016
+964,0.0,Haas F1 Team,2016
+964,0.0,Renault,2016
+964,0.0,Toro Rosso,2016
+964,0.0,Sauber,2016
+964,0.0,McLaren,2016
+964,0.0,Manor Marussia,2016
+965,43.0,Mercedes,2016
+965,15.0,Red Bull,2016
+965,12.0,Ferrari,2016
+965,12.0,McLaren,2016
+965,8.0,Toro Rosso,2016
+965,6.0,Williams,2016
+965,4.0,Force India,2016
+965,1.0,Haas F1 Team,2016
+965,0.0,Renault,2016
+965,0.0,Sauber,2016
+965,0.0,Manor Marussia,2016
+966,43.0,Mercedes,2016
+966,18.0,Ferrari,2016
+966,27.0,Red Bull,2016
+966,7.0,Force India,2016
+966,6.0,Williams,2016
+966,0.0,Sauber,2016
+966,0.0,McLaren,2016
+966,0.0,Renault,2016
+966,0.0,Toro Rosso,2016
+966,0.0,Haas F1 Team,2016
+966,0.0,Manor Marussia,2016
+967,43.0,Mercedes,2016
+967,19.0,Red Bull,2016
+967,18.0,Force India,2016
+967,10.0,Ferrari,2016
+967,8.0,Toro Rosso,2016
+967,2.0,Sauber,2016
+967,1.0,McLaren,2016
+967,0.0,Williams,2016
+967,0.0,Manor Marussia,2016
+967,0.0,Renault,2016
+967,0.0,Haas F1 Team,2016
+968,43.0,Mercedes,2016
+968,23.0,Ferrari,2016
+968,22.0,Red Bull,2016
+968,10.0,Force India,2016
+968,2.0,Williams,2016
+968,1.0,McLaren,2016
+968,0.0,Haas F1 Team,2016
+968,0.0,Manor Marussia,2016
+968,0.0,Sauber,2016
+968,0.0,Renault,2016
+968,0.0,Toro Rosso,2016
+969,37.0,Ferrari,2017
+969,33.0,Mercedes,2017
+969,10.0,Red Bull,2017
+969,8.0,Williams,2017
+969,7.0,Force India,2017
+969,6.0,Toro Rosso,2017
+969,0.0,Renault,2017
+969,0.0,Sauber,2017
+969,0.0,McLaren,2017
+969,0.0,Haas F1 Team,2017
+970,33.0,Mercedes,2017
+970,28.0,Ferrari,2017
+970,27.0,Red Bull,2017
+970,6.0,Toro Rosso,2017
+970,4.0,Haas F1 Team,2017
+970,3.0,Force India,2017
+970,0.0,Renault,2017
+970,0.0,Williams,2017
+970,0.0,Sauber,2017
+970,0.0,McLaren,2017
+971,37.0,Ferrari,2017
+971,33.0,Mercedes,2017
+971,10.0,Red Bull,2017
+971,8.0,Williams,2017
+971,7.0,Force India,2017
+971,4.0,Haas F1 Team,2017
+971,2.0,Renault,2017
+971,0.0,Sauber,2017
+971,0.0,Toro Rosso,2017
+971,0.0,McLaren,2017
+972,37.0,Mercedes,2017
+972,33.0,Ferrari,2017
+972,10.0,Red Bull,2017
+972,14.0,Force India,2017
+972,4.0,Renault,2017
+972,2.0,Williams,2017
+972,1.0,Toro Rosso,2017
+972,0.0,Haas F1 Team,2017
+972,0.0,McLaren,2017
+972,0.0,Sauber,2017
+973,25.0,Mercedes,2017
+973,18.0,Ferrari,2017
+973,15.0,Red Bull,2017
+973,22.0,Force India,2017
+973,8.0,Renault,2017
+973,8.0,Toro Rosso,2017
+973,4.0,Sauber,2017
+973,1.0,Haas F1 Team,2017
+973,0.0,McLaren,2017
+973,0.0,Williams,2017
+974,43.0,Ferrari,2017
+974,25.0,Red Bull,2017
+974,18.0,Mercedes,2017
+974,8.0,Toro Rosso,2017
+974,5.0,Haas F1 Team,2017
+974,2.0,Williams,2017
+974,0.0,Renault,2017
+974,0.0,Force India,2017
+974,0.0,McLaren,2017
+974,0.0,Sauber,2017
+975,43.0,Mercedes,2017
+975,15.0,Red Bull,2017
+975,18.0,Ferrari,2017
+975,18.0,Force India,2017
+975,4.0,Renault,2017
+975,2.0,Williams,2017
+975,1.0,Haas F1 Team,2017
+975,0.0,Sauber,2017
+975,0.0,McLaren,2017
+975,0.0,Toro Rosso,2017
+976,25.0,Red Bull,2017
+976,28.0,Mercedes,2017
+976,15.0,Williams,2017
+976,12.0,Ferrari,2017
+976,8.0,Force India,2017
+976,6.0,Haas F1 Team,2017
+976,4.0,Toro Rosso,2017
+976,2.0,McLaren,2017
+976,1.0,Sauber,2017
+976,0.0,Renault,2017
+841,0.0,HRT,2011
+977,37.0,Mercedes,2017
+977,28.0,Ferrari,2017
+977,15.0,Red Bull,2017
+977,8.0,Haas F1 Team,2017
+977,10.0,Force India,2017
+977,3.0,Williams,2017
+977,0.0,Renault,2017
+977,0.0,McLaren,2017
+977,0.0,Sauber,2017
+977,0.0,Toro Rosso,2017
+978,43.0,Mercedes,2017
+978,21.0,Ferrari,2017
+978,22.0,Red Bull,2017
+978,8.0,Renault,2017
+978,6.0,Force India,2017
+978,1.0,Williams,2017
+978,0.0,McLaren,2017
+978,0.0,Haas F1 Team,2017
+978,0.0,Sauber,2017
+978,0.0,Toro Rosso,2017
+979,43.0,Ferrari,2017
+979,27.0,Mercedes,2017
+979,10.0,Red Bull,2017
+979,9.0,McLaren,2017
+979,6.0,Toro Rosso,2017
+979,6.0,Force India,2017
+979,0.0,Renault,2017
+979,0.0,Haas F1 Team,2017
+979,0.0,Williams,2017
+979,0.0,Sauber,2017
+980,35.0,Mercedes,2017
+980,30.0,Ferrari,2017
+980,15.0,Red Bull,2017
+980,8.0,Renault,2017
+980,6.0,Haas F1 Team,2017
+980,4.0,Williams,2017
+980,2.0,Force India,2017
+980,1.0,Toro Rosso,2017
+980,0.0,McLaren,2017
+980,0.0,Sauber,2017
+981,43.0,Mercedes,2017
+981,25.0,Ferrari,2017
+981,13.0,Red Bull,2017
+981,10.0,Force India,2017
+981,10.0,Williams,2017
+981,0.0,Haas F1 Team,2017
+981,0.0,Toro Rosso,2017
+981,0.0,Renault,2017
+981,0.0,Sauber,2017
+981,0.0,McLaren,2017
+982,40.0,Mercedes,2017
+982,18.0,Red Bull,2017
+982,12.0,Toro Rosso,2017
+982,11.0,Force India,2017
+982,8.0,Renault,2017
+982,6.0,McLaren,2017
+982,4.0,Williams,2017
+982,2.0,Haas F1 Team,2017
+982,0.0,Sauber,2017
+982,0.0,Ferrari,2017
+983,40.0,Red Bull,2017
+983,28.0,Mercedes,2017
+983,12.0,Ferrari,2017
+983,9.0,Force India,2017
+983,6.0,McLaren,2017
+983,6.0,Williams,2017
+983,0.0,Haas F1 Team,2017
+983,0.0,Toro Rosso,2017
+983,0.0,Renault,2017
+983,0.0,Sauber,2017
+984,37.0,Mercedes,2017
+984,33.0,Red Bull,2017
+984,10.0,Ferrari,2017
+984,14.0,Force India,2017
+984,6.0,Haas F1 Team,2017
+984,1.0,Williams,2017
+984,0.0,McLaren,2017
+984,0.0,Renault,2017
+984,0.0,Toro Rosso,2017
+984,0.0,Sauber,2017
+985,35.0,Mercedes,2017
+985,33.0,Ferrari,2017
+985,12.0,Red Bull,2017
+985,12.0,Force India,2017
+985,6.0,Renault,2017
+985,2.0,Williams,2017
+985,1.0,Toro Rosso,2017
+985,0.0,McLaren,2017
+985,0.0,Haas F1 Team,2017
+985,0.0,Sauber,2017
+986,25.0,Red Bull,2017
+986,20.0,Mercedes,2017
+986,27.0,Ferrari,2017
+986,16.0,Force India,2017
+986,8.0,Williams,2017
+986,4.0,Haas F1 Team,2017
+986,1.0,McLaren,2017
+986,0.0,Toro Rosso,2017
+986,0.0,Sauber,2017
+986,0.0,Renault,2017
+987,40.0,Ferrari,2017
+987,30.0,Mercedes,2017
+987,18.0,Red Bull,2017
+987,6.0,Williams,2017
+987,4.0,McLaren,2017
+987,2.0,Force India,2017
+987,1.0,Renault,2017
+987,0.0,Toro Rosso,2017
+987,0.0,Sauber,2017
+987,0.0,Haas F1 Team,2017
+988,43.0,Mercedes,2017
+988,27.0,Ferrari,2017
+988,10.0,Red Bull,2017
+988,8.0,Renault,2017
+988,10.0,Force India,2017
+988,2.0,McLaren,2017
+988,1.0,Williams,2017
+988,0.0,Haas F1 Team,2017
+988,0.0,Sauber,2017
+988,0.0,Toro Rosso,2017
+989,40.0,Ferrari,2018
+989,22.0,Mercedes,2018
+989,20.0,Red Bull,2018
+989,12.0,McLaren,2018
+989,7.0,Renault,2018
+989,0.0,Force India,2018
+989,0.0,Sauber,2018
+989,0.0,Williams,2018
+989,0.0,Toro Rosso,2018
+989,0.0,Haas F1 Team,2018
+990,25.0,Ferrari,2018
+990,33.0,Mercedes,2018
+990,12.0,Toro Rosso,2018
+990,10.0,Haas F1 Team,2018
+990,8.0,Renault,2018
+990,10.0,McLaren,2018
+990,2.0,Sauber,2018
+990,1.0,Force India,2018
+990,0.0,Williams,2018
+990,0.0,Red Bull,2018
+991,35.0,Red Bull,2018
+991,30.0,Mercedes,2018
+991,19.0,Ferrari,2018
+991,10.0,Renault,2018
+991,6.0,McLaren,2018
+991,1.0,Haas F1 Team,2018
+991,0.0,Force India,2018
+991,0.0,Williams,2018
+991,0.0,Sauber,2018
+991,0.0,Toro Rosso,2018
+992,25.0,Mercedes,2018
+992,30.0,Ferrari,2018
+992,15.0,Force India,2018
+992,10.0,Renault,2018
+992,8.0,Sauber,2018
+992,8.0,McLaren,2018
+992,4.0,Williams,2018
+992,1.0,Toro Rosso,2018
+992,0.0,Haas F1 Team,2018
+992,0.0,Red Bull,2018
+993,43.0,Mercedes,2018
+993,25.0,Red Bull,2018
+993,12.0,Ferrari,2018
+993,8.0,Haas F1 Team,2018
+993,6.0,Renault,2018
+993,4.0,McLaren,2018
+993,2.0,Force India,2018
+993,1.0,Sauber,2018
+993,0.0,Williams,2018
+993,0.0,Toro Rosso,2018
+994,27.0,Red Bull,2018
+994,30.0,Ferrari,2018
+994,25.0,Mercedes,2018
+994,8.0,Force India,2018
+994,6.0,Toro Rosso,2018
+994,5.0,Renault,2018
+994,0.0,Sauber,2018
+994,0.0,Haas F1 Team,2018
+994,0.0,McLaren,2018
+994,0.0,Williams,2018
+995,33.0,Ferrari,2018
+995,28.0,Mercedes,2018
+995,27.0,Red Bull,2018
+995,10.0,Renault,2018
+995,2.0,Force India,2018
+995,1.0,Sauber,2018
+995,0.0,Toro Rosso,2018
+995,0.0,Haas F1 Team,2018
+995,0.0,McLaren,2018
+995,0.0,Williams,2018
+996,31.0,Mercedes,2018
+996,30.0,Red Bull,2018
+996,25.0,Ferrari,2018
+996,8.0,Haas F1 Team,2018
+996,6.0,Renault,2018
+996,1.0,Sauber,2018
+996,0.0,McLaren,2018
+996,0.0,Toro Rosso,2018
+996,0.0,Williams,2018
+996,0.0,Force India,2018
+997,25.0,Red Bull,2018
+997,33.0,Ferrari,2018
+997,22.0,Haas F1 Team,2018
+997,14.0,Force India,2018
+997,4.0,McLaren,2018
+997,3.0,Sauber,2018
+997,0.0,Toro Rosso,2018
+997,0.0,Renault,2018
+997,0.0,Williams,2018
+997,0.0,Mercedes,2018
+998,40.0,Ferrari,2018
+998,30.0,Mercedes,2018
+998,10.0,Red Bull,2018
+998,8.0,Renault,2018
+998,7.0,Force India,2018
+998,4.0,McLaren,2018
+998,2.0,Haas F1 Team,2018
+998,0.0,Williams,2018
+998,0.0,Toro Rosso,2018
+998,0.0,Sauber,2018
+999,43.0,Mercedes,2018
+999,15.0,Ferrari,2018
+999,12.0,Red Bull,2018
+999,10.0,Renault,2018
+999,8.0,Haas F1 Team,2018
+999,10.0,Force India,2018
+999,2.0,Sauber,2018
+999,1.0,Toro Rosso,2018
+999,0.0,McLaren,2018
+999,0.0,Williams,2018
+1000,35.0,Mercedes,2018
+1000,33.0,Ferrari,2018
+1000,12.0,Red Bull,2018
+1000,8.0,Toro Rosso,2018
+1000,7.0,Haas F1 Team,2018
+1000,4.0,McLaren,2018
+1000,2.0,Renault,2018
+1000,0.0,Force India,2018
+1000,0.0,Sauber,2018
+1000,0.0,Williams,2018
+1001,25.0,Ferrari,2018
+1001,30.0,Mercedes,2018
+1001,15.0,Red Bull,2018
+1001,18.0,Force India,2018
+1001,10.0,Haas F1 Team,2018
+1001,2.0,Toro Rosso,2018
+1001,1.0,Sauber,2018
+1001,0.0,Renault,2018
+1001,0.0,Williams,2018
+1001,0.0,McLaren,2018
+1002,40.0,Mercedes,2018
+1002,30.0,Ferrari,2018
+1002,10.0,Red Bull,2018
+1002,0.0,Haas F1 Team,2018
+1002,14.0,Force India,2018
+1002,4.0,Renault,2018
+1002,3.0,Williams,2018
+1002,0.0,Sauber,2018
+1002,0.0,McLaren,2018
+1002,0.0,Toro Rosso,2018
+1003,37.0,Mercedes,2018
+1003,26.0,Red Bull,2018
+1003,25.0,Ferrari,2018
+1003,6.0,McLaren,2018
+1003,5.0,Renault,2018
+1003,2.0,Sauber,2018
+1003,0.0,Toro Rosso,2018
+1003,0.0,Williams,2018
+1003,0.0,Haas F1 Team,2018
+1003,0.0,Force India,2018
+1004,43.0,Mercedes,2018
+1004,27.0,Ferrari,2018
+1004,18.0,Red Bull,2018
+1004,6.0,Sauber,2018
+1004,4.0,Haas F1 Team,2018
+1004,3.0,Force India,2018
+1004,0.0,Renault,2018
+1004,0.0,McLaren,2018
+1004,0.0,Williams,2018
+1004,0.0,Toro Rosso,2018
+1005,43.0,Mercedes,2018
+1005,27.0,Red Bull,2018
+1005,18.0,Ferrari,2018
+1005,8.0,Force India,2018
+1005,4.0,Haas F1 Team,2018
+1005,1.0,Renault,2018
+1005,0.0,Toro Rosso,2018
+1005,0.0,Sauber,2018
+1005,0.0,McLaren,2018
+1005,0.0,Williams,2018
+1006,37.0,Ferrari,2018
+1006,18.0,Red Bull,2018
+1006,25.0,Mercedes,2018
+1006,14.0,Renault,2018
+1006,4.0,Force India,2018
+1006,0.0,Haas F1 Team,2018
+1006,2.0,Toro Rosso,2018
+1006,1.0,Sauber,2018
+1006,0.0,McLaren,2018
+1006,0.0,Williams,2018
+1007,22.0,Mercedes,2018
+1007,8.0,Renault,2018
+1007,8.0,Sauber,2018
+1007,4.0,McLaren,2018
+1007,1.0,Toro Rosso,2018
+1007,0.0,Force India,2018
+1007,0.0,Williams,2018
+1007,0.0,Haas F1 Team,2018
+1008,35.0,Mercedes,2018
+1008,30.0,Red Bull,2018
+1008,23.0,Ferrari,2018
+1008,6.0,Sauber,2018
+1008,6.0,Haas F1 Team,2018
+1008,1.0,Force India,2018
+1008,0.0,Toro Rosso,2018
+1008,0.0,Renault,2018
+1008,0.0,McLaren,2018
+1008,0.0,Williams,2018
+1009,35.0,Mercedes,2018
+1009,18.0,Ferrari,2018
+1009,27.0,Red Bull,2018
+1009,8.0,Renault,2018
+1009,6.0,Sauber,2018
+1009,4.0,Force India,2018
+1009,3.0,Haas F1 Team,2018
+1009,0.0,McLaren,2018
+1009,0.0,Toro Rosso,2018
+1009,0.0,Williams,2018
+1010,44.0,Mercedes,2019
+1010,15.0,Red Bull,2019
+1010,22.0,Ferrari,2019
+1010,8.0,Haas F1 Team,2019
+1010,6.0,Renault,2019
+1010,4.0,Alfa Romeo,2019
+1010,2.0,Racing Point,2019
+1010,1.0,Toro Rosso,2019
+1010,0.0,McLaren,2019
+1010,0.0,Williams,2019
+1011,43.0,Mercedes,2019
+1011,26.0,Ferrari,2019
+1011,16.0,Red Bull,2019
+1011,8.0,McLaren,2019
+1011,6.0,Alfa Romeo,2019
+1011,1.0,Racing Point,2019
+1011,0.0,Haas F1 Team,2019
+1011,0.0,Williams,2019
+1011,0.0,Renault,2019
+1011,2.0,Toro Rosso,2019
+1012,43.0,Mercedes,2019
+1012,25.0,Ferrari,2019
+1012,21.0,Red Bull,2019
+1012,6.0,Renault,2019
+1012,4.0,Racing Point,2019
+1012,2.0,Alfa Romeo,2019
+1012,1.0,Toro Rosso,2019
+1012,0.0,Haas F1 Team,2019
+1012,0.0,McLaren,2019
+1012,0.0,Williams,2019
+1013,43.0,Mercedes,2019
+1013,26.0,Ferrari,2019
+1013,12.0,Red Bull,2019
+1013,10.0,Racing Point,2019
+1013,10.0,McLaren,2019
+1013,1.0,Alfa Romeo,2019
+1013,0.0,Toro Rosso,2019
+1013,0.0,Haas F1 Team,2019
+1013,0.0,Renault,2019
+1013,0.0,Williams,2019
+1014,44.0,Mercedes,2019
+1014,23.0,Red Bull,2019
+1014,22.0,Ferrari,2019
+1014,7.0,Haas F1 Team,2019
+1014,4.0,McLaren,2019
+1014,2.0,Toro Rosso,2019
+1014,0.0,Renault,2019
+1014,0.0,Alfa Romeo,2019
+1014,0.0,Racing Point,2019
+1014,0.0,Williams,2019
+1015,40.0,Mercedes,2019
+1015,18.0,Ferrari,2019
+1015,23.0,Red Bull,2019
+1015,8.0,McLaren,2019
+1015,10.0,Toro Rosso,2019
+1015,2.0,Renault,2019
+1015,1.0,Haas F1 Team,2019
+1015,0.0,Racing Point,2019
+1015,0.0,Williams,2019
+1015,0.0,Alfa Romeo,2019
+1016,38.0,Mercedes,2019
+1016,33.0,Ferrari,2019
+1016,14.0,Red Bull,2019
+1016,14.0,Renault,2019
+1016,2.0,Racing Point,2019
+1016,1.0,Toro Rosso,2019
+1016,0.0,McLaren,2019
+1016,0.0,Alfa Romeo,2019
+1016,0.0,Haas F1 Team,2019
+1016,0.0,Williams,2019
+1017,43.0,Mercedes,2019
+1017,26.0,Ferrari,2019
+1017,13.0,Red Bull,2019
+1017,10.0,McLaren,2019
+1017,4.0,Renault,2019
+1017,6.0,Alfa Romeo,2019
+1017,0.0,Racing Point,2019
+1017,0.0,Toro Rosso,2019
+1017,0.0,Haas F1 Team,2019
+1017,0.0,Williams,2019
+1018,32.0,Red Bull,2019
+1018,30.0,Ferrari,2019
+1018,25.0,Mercedes,2019
+1018,12.0,McLaren,2019
+1018,3.0,Alfa Romeo,2019
+1018,0.0,Racing Point,2019
+1018,0.0,Renault,2019
+1018,0.0,Toro Rosso,2019
+1018,0.0,Haas F1 Team,2019
+1018,0.0,Williams,2019
+1019,44.0,Mercedes,2019
+1019,15.0,Ferrari,2019
+1019,22.0,Red Bull,2019
+1019,8.0,McLaren,2019
+1019,7.0,Renault,2019
+1019,4.0,Alfa Romeo,2019
+1019,2.0,Toro Rosso,2019
+1019,0.0,Racing Point,2019
+1019,0.0,Williams,2019
+1019,0.0,Haas F1 Team,2019
+1020,26.0,Red Bull,2019
+1020,18.0,Ferrari,2019
+1020,23.0,Toro Rosso,2019
+1020,12.0,Racing Point,2019
+1020,10.0,McLaren,2019
+1020,0.0,Alfa Romeo,2019
+1020,10.0,Haas F1 Team,2019
+1020,2.0,Mercedes,2019
+1020,1.0,Williams,2019
+1020,0.0,Renault,2019
+1021,29.0,Mercedes,2019
+1021,27.0,Red Bull,2019
+1021,27.0,Ferrari,2019
+1021,12.0,McLaren,2019
+1021,6.0,Alfa Romeo,2019
+1021,1.0,Toro Rosso,2019
+1021,0.0,Racing Point,2019
+1021,0.0,Renault,2019
+1021,0.0,Haas F1 Team,2019
+1021,0.0,Williams,2019
+1022,38.0,Ferrari,2019
+1022,33.0,Mercedes,2019
+1022,10.0,Red Bull,2019
+1022,9.0,Racing Point,2019
+1022,8.0,Toro Rosso,2019
+1022,4.0,Renault,2019
+1022,0.0,McLaren,2019
+1022,0.0,Haas F1 Team,2019
+1022,0.0,Williams,2019
+1022,0.0,Alfa Romeo,2019
+1023,25.0,Ferrari,2019
+1023,34.0,Mercedes,2019
+1023,22.0,Renault,2019
+1023,12.0,Red Bull,2019
+1023,6.0,Racing Point,2019
+1023,2.0,Alfa Romeo,2019
+1023,1.0,McLaren,2019
+1023,0.0,Toro Rosso,2019
+1023,0.0,Williams,2019
+1023,0.0,Haas F1 Team,2019
+1024,43.0,Ferrari,2019
+1024,23.0,Red Bull,2019
+1024,22.0,Mercedes,2019
+1024,6.0,McLaren,2019
+1024,4.0,Toro Rosso,2019
+1024,2.0,Renault,2019
+1024,1.0,Alfa Romeo,2019
+1024,0.0,Haas F1 Team,2019
+1024,0.0,Racing Point,2019
+1024,0.0,Williams,2019
+1025,44.0,Mercedes,2019
+1025,15.0,Ferrari,2019
+1025,22.0,Red Bull,2019
+1025,12.0,McLaren,2019
+1025,6.0,Racing Point,2019
+1025,2.0,Haas F1 Team,2019
+1025,1.0,Renault,2019
+1025,0.0,Toro Rosso,2019
+1025,0.0,Alfa Romeo,2019
+1025,0.0,Williams,2019
+1026,41.0,Mercedes,2019
+1026,26.0,Ferrari,2019
+1026,12.0,Red Bull,2019
+1026,10.0,McLaren,2019
+1026,0.0,Renault,2019
+1026,7.0,Toro Rosso,2019
+1026,6.0,Racing Point,2019
+1026,0.0,Alfa Romeo,2019
+1026,0.0,Haas F1 Team,2019
+1026,0.0,Williams,2019
+1027,40.0,Mercedes,2019
+1027,31.0,Ferrari,2019
+1027,18.0,Red Bull,2019
+1027,6.0,Racing Point,2019
+1027,5.0,Renault,2019
+1027,2.0,Toro Rosso,2019
+1027,0.0,McLaren,2019
+1027,0.0,Alfa Romeo,2019
+1027,0.0,Haas F1 Team,2019
+1027,0.0,Williams,2019
+1028,43.0,Mercedes,2019
+1028,25.0,Red Bull,2019
+1028,13.0,Ferrari,2019
+1028,10.0,Renault,2019
+1028,10.0,McLaren,2019
+1028,1.0,Racing Point,2019
+1028,0.0,Alfa Romeo,2019
+1028,0.0,Toro Rosso,2019
+1028,0.0,Haas F1 Team,2019
+1028,0.0,Williams,2019
+1029,25.0,Red Bull,2019
+1029,19.0,Toro Rosso,2019
+1029,19.0,McLaren,2019
+1029,22.0,Alfa Romeo,2019
+1029,8.0,Renault,2019
+1029,6.0,Mercedes,2019
+1029,2.0,Racing Point,2019
+1029,0.0,Haas F1 Team,2019
+1029,0.0,Williams,2019
+1029,0.0,Ferrari,2019
+1030,38.0,Mercedes,2019
+1030,26.0,Red Bull,2019
+1030,25.0,Ferrari,2019
+1030,6.0,Racing Point,2019
+1030,5.0,McLaren,2019
+1030,2.0,Toro Rosso,2019
+1030,0.0,Renault,2019
+1030,0.0,Alfa Romeo,2019
+1030,0.0,Haas F1 Team,2019
+1030,0.0,Williams,2019
+1031,37.0,Mercedes,2020
+1031,19.0,Ferrari,2020
+1031,26.0,McLaren,2020
+1031,8.0,Racing Point,2020
+1031,6.0,AlphaTauri,2020
+1031,4.0,Renault,2020
+1031,2.0,Alfa Romeo,2020
+1031,0.0,Williams,2020
+1031,0.0,Red Bull,2020
+1031,0.0,Haas F1 Team,2020
+1032,43.0,Mercedes,2020
+1032,27.0,Red Bull,2020
+1032,13.0,McLaren,2020
+1032,14.0,Racing Point,2020
+1032,4.0,Renault,2020
+1032,1.0,AlphaTauri,2020
+1032,0.0,Alfa Romeo,2020
+1032,0.0,Haas F1 Team,2020
+1032,0.0,Williams,2020
+1032,0.0,Ferrari,2020
+1033,41.0,Mercedes,2020
+1033,28.0,Red Bull,2020
+1033,18.0,Racing Point,2020
+1033,8.0,Ferrari,2020
+1033,4.0,Renault,2020
+1033,1.0,Haas F1 Team,2020
+1033,2.0,McLaren,2020
+1033,0.0,AlphaTauri,2020
+1033,0.0,Alfa Romeo,2020
+1033,0.0,Williams,2020
+1034,25.0,Mercedes,2020
+1034,23.0,Red Bull,2020
+1034,16.0,Ferrari,2020
+1034,20.0,Renault,2020
+1034,10.0,McLaren,2020
+1034,6.0,AlphaTauri,2020
+1034,2.0,Racing Point,2020
+1034,0.0,Williams,2020
+1034,0.0,Alfa Romeo,2020
+1034,0.0,Haas F1 Team,2020
+1035,35.0,Red Bull,2020
+1035,34.0,Mercedes,2020
+1035,12.0,Ferrari,2020
+1035,14.0,Racing Point,2020
+1035,4.0,Renault,2020
+1035,2.0,McLaren,2020
+1035,1.0,AlphaTauri,2020
+1035,0.0,Alfa Romeo,2020
+1035,0.0,Haas F1 Team,2020
+1035,0.0,Williams,2020
+1036,41.0,Mercedes,2020
+1036,22.0,Red Bull,2020
+1036,22.0,Racing Point,2020
+1036,9.0,McLaren,2020
+1036,6.0,Ferrari,2020
+1036,2.0,AlphaTauri,2020
+1036,0.0,Renault,2020
+1036,0.0,Alfa Romeo,2020
+1036,0.0,Haas F1 Team,2020
+1036,0.0,Williams,2020
+1037,43.0,Mercedes,2020
+1037,23.0,Red Bull,2020
+1037,23.0,Renault,2020
+1037,6.0,McLaren,2020
+1037,4.0,AlphaTauri,2020
+1037,3.0,Racing Point,2020
+1037,0.0,Alfa Romeo,2020
+1037,0.0,Ferrari,2020
+1037,0.0,Haas F1 Team,2020
+1037,0.0,Williams,2020
+1038,27.0,AlphaTauri,2020
+1038,30.0,McLaren,2020
+1038,16.0,Racing Point,2020
+1038,17.0,Mercedes,2020
+1038,12.0,Renault,2020
+1038,0.0,Williams,2020
+1038,0.0,Haas F1 Team,2020
+1038,0.0,Alfa Romeo,2020
+1038,0.0,Red Bull,2020
+1038,0.0,Ferrari,2020
+1039,44.0,Mercedes,2020
+1039,15.0,Red Bull,2020
+1039,12.0,Renault,2020
+1039,10.0,Racing Point,2020
+1039,8.0,McLaren,2020
+1039,6.0,AlphaTauri,2020
+1039,5.0,Ferrari,2020
+1039,2.0,Alfa Romeo,2020
+1039,0.0,Williams,2020
+1039,0.0,Haas F1 Team,2020
+1040,41.0,Mercedes,2020
+1040,19.0,Red Bull,2020
+1040,12.0,Racing Point,2020
+1040,16.0,Renault,2020
+1040,8.0,Ferrari,2020
+1040,6.0,AlphaTauri,2020
+1040,0.0,Alfa Romeo,2020
+1040,0.0,Haas F1 Team,2020
+1040,0.0,McLaren,2020
+1040,0.0,Williams,2020
+1041,25.0,Mercedes,2020
+1041,19.0,Red Bull,2020
+1041,15.0,Renault,2020
+1041,16.0,Racing Point,2020
+1041,10.0,McLaren,2020
+1041,8.0,AlphaTauri,2020
+1041,6.0,Ferrari,2020
+1041,2.0,Haas F1 Team,2020
+1041,1.0,Alfa Romeo,2020
+1041,0.0,Williams,2020
+1042,44.0,Mercedes,2020
+1042,15.0,Red Bull,2020
+1042,13.0,Ferrari,2020
+1042,10.0,AlphaTauri,2020
+1042,8.0,McLaren,2020
+1042,6.0,Racing Point,2020
+1042,6.0,Renault,2020
+1042,0.0,Alfa Romeo,2020
+1042,0.0,Williams,2020
+1042,0.0,Haas F1 Team,2020
+1043,44.0,Mercedes,2020
+1043,15.0,Renault,2020
+1043,12.0,AlphaTauri,2020
+1043,10.0,Ferrari,2020
+1043,8.0,Racing Point,2020
+1043,10.0,McLaren,2020
+1043,3.0,Alfa Romeo,2020
+1043,0.0,Williams,2020
+1043,0.0,Haas F1 Team,2020
+1043,0.0,Red Bull,2020
+1044,25.0,Mercedes,2020
+1044,20.0,Racing Point,2020
+1044,27.0,Ferrari,2020
+1044,15.0,McLaren,2020
+1044,14.0,Red Bull,2020
+1044,1.0,Renault,2020
+1044,0.0,AlphaTauri,2020
+1044,0.0,Alfa Romeo,2020
+1044,0.0,Williams,2020
+1044,0.0,Haas F1 Team,2020
+1045,29.0,Mercedes,2020
+1045,34.0,Red Bull,2020
+1045,22.0,McLaren,2020
+1045,8.0,AlphaTauri,2020
+1045,8.0,Renault,2020
+1045,1.0,Ferrari,2020
+1045,0.0,Williams,2020
+1045,0.0,Alfa Romeo,2020
+1045,0.0,Haas F1 Team,2020
+1045,0.0,Racing Point,2020
+1046,40.0,Racing Point,2020
+1046,28.0,Renault,2020
+1046,13.0,McLaren,2020
+1046,8.0,Red Bull,2020
+1046,6.0,AlphaTauri,2020
+1046,7.0,Mercedes,2020
+1046,0.0,Ferrari,2020
+1046,0.0,Alfa Romeo,2020
+1046,0.0,Haas F1 Team,2020
+1046,0.0,Williams,2020
+1047,37.0,Red Bull,2020
+1047,33.0,Mercedes,2020
+1047,18.0,McLaren,2020
+1047,9.0,Renault,2020
+1047,4.0,AlphaTauri,2020
+1047,1.0,Racing Point,2020
+1047,0.0,Alfa Romeo,2020
+1047,0.0,Ferrari,2020
+1047,0.0,Williams,2020
+1047,0.0,Haas F1 Team,2020
+1052,41.0,Mercedes,2021
+1052,28.0,Red Bull,2021
+1052,18.0,McLaren,2021
+1052,12.0,Ferrari,2021
+1052,2.0,AlphaTauri,2021
+1052,1.0,Aston Martin,2021
+1052,0.0,Alfa Romeo,2021
+1052,0.0,Alpine F1 Team,2021
+1052,0.0,Williams,2021
+1052,0.0,Haas F1 Team,2021
+1053,25.0,Red Bull,2021
+1053,19.0,Mercedes,2021
+1053,23.0,McLaren,2021
+1053,22.0,Ferrari,2021
+1053,4.0,Aston Martin,2021
+1053,6.0,AlphaTauri,2021
+1053,0.0,Alfa Romeo,2021
+1053,3.0,Alpine F1 Team,2021
+1053,0.0,Haas F1 Team,2021
+1053,0.0,Williams,2021
+1054,41.0,Mercedes,2021
+1054,30.0,Red Bull,2021
+1054,12.0,McLaren,2021
+1054,8.0,Ferrari,2021
+1054,10.0,Alpine F1 Team,2021
+1054,1.0,AlphaTauri,2021
+1054,0.0,Alfa Romeo,2021
+1054,0.0,Aston Martin,2021
+1054,0.0,Williams,2021
+1054,0.0,Haas F1 Team,2021
+1055,40.0,Mercedes,2021
+1055,29.0,Red Bull,2021
+1055,18.0,Ferrari,2021
+1055,12.0,McLaren,2021
+1055,2.0,Alpine F1 Team,2021
+1055,1.0,AlphaTauri,2021
+1055,0.0,Aston Martin,2021
+1055,0.0,Alfa Romeo,2021
+1055,0.0,Williams,2021
+1055,0.0,Haas F1 Team,2021
+1056,18.0,Ferrari,2021
+1056,37.0,Red Bull,2021
+1056,15.0,McLaren,2021
+1056,14.0,Aston Martin,2021
+1056,8.0,AlphaTauri,2021
+1056,7.0,Mercedes,2021
+1056,2.0,Alpine F1 Team,2021
+1056,1.0,Alfa Romeo,2021
+1056,0.0,Williams,2021
+1056,0.0,Haas F1 Team,2021
+1057,25.0,Red Bull,2021
+1057,18.0,Aston Martin,2021
+1057,21.0,AlphaTauri,2021
+1057,16.0,Ferrari,2021
+1057,12.0,McLaren,2021
+1057,8.0,Alpine F1 Team,2021
+1057,1.0,Alfa Romeo,2021
+1057,0.0,Mercedes,2021
+1057,0.0,Haas F1 Team,2021
+1057,0.0,Williams,2021
+1059,41.0,Red Bull,2021
+1059,30.0,Mercedes,2021
+1059,18.0,McLaren,2021
+1059,6.0,AlphaTauri,2021
+1059,4.0,Alpine F1 Team,2021
+1059,3.0,Aston Martin,2021
+1059,0.0,Ferrari,2021
+1059,0.0,Williams,2021
+1059,0.0,Alfa Romeo,2021
+1059,0.0,Haas F1 Team,2021
+1058,37.0,Red Bull,2021
+1058,34.0,Mercedes,2021
+1058,10.0,McLaren,2021
+1058,14.0,Ferrari,2021
+1058,4.0,Aston Martin,2021
+1058,2.0,Alpine F1 Team,2021
+1058,1.0,AlphaTauri,2021
+1058,0.0,Alfa Romeo,2021
+1058,0.0,Haas F1 Team,2021
+1058,0.0,Williams,2021
+1060,34.0,Red Bull,2021
+1060,30.0,Mercedes,2021
+1060,21.0,McLaren,2021
+1060,14.0,Ferrari,2021
+1060,2.0,AlphaTauri,2021
+1060,1.0,Alpine F1 Team,2021
+1060,0.0,Williams,2021
+1060,0.0,Aston Martin,2021
+1060,0.0,Alfa Romeo,2021
+1060,0.0,Haas F1 Team,2021
+1061,43.0,Mercedes,2021
+1061,26.0,Ferrari,2021
+1061,22.0,McLaren,2021
+1061,8.0,Alpine F1 Team,2021
+1061,4.0,Aston Martin,2021
+1061,1.0,AlphaTauri,2021
+1061,0.0,Williams,2021
+1061,0.0,Alfa Romeo,2021
+1061,3.0,Red Bull,2021
+1061,0.0,Haas F1 Team,2021
+1062,37.0,Alpine F1 Team,2021
+1062,0.0,Aston Martin,2021
+1062,18.0,Mercedes,2021
+1062,15.0,Ferrari,2021
+1062,19.0,AlphaTauri,2021
+1062,10.0,Williams,2021
+1062,2.0,Red Bull,2021
+1062,1.0,Alfa Romeo,2021
+1062,0.0,McLaren,2021
+1062,0.0,Haas F1 Team,2021
+1063,12.5,Red Bull,2021
+1063,10.0,Williams,2021
+1063,7.5,Mercedes,2021
+1063,6.0,McLaren,2021
+1063,5.0,Aston Martin,2021
+1063,4.0,AlphaTauri,2021
+1063,3.0,Alpine F1 Team,2021
+1063,2.5,Ferrari,2021
+1063,0.0,Alfa Romeo,2021
+1063,0.0,Haas F1 Team,2021
+1064,29.0,Red Bull,2021
+1064,34.0,Mercedes,2021
+1064,12.0,AlphaTauri,2021
+1064,16.0,Ferrari,2021
+1064,10.0,Alpine F1 Team,2021
+1064,1.0,McLaren,2021
+1064,0.0,Aston Martin,2021
+1064,0.0,Alfa Romeo,2021
+1064,0.0,Williams,2021
+1064,0.0,Haas F1 Team,2021
+1065,45.0,McLaren,2021
+1065,18.0,Mercedes,2021
+1065,20.0,Ferrari,2021
+1065,12.0,Red Bull,2021
+1065,6.0,Aston Martin,2021
+1065,5.0,Alpine F1 Team,2021
+1065,2.0,Williams,2021
+1065,0.0,Alfa Romeo,2021
+1065,0.0,Haas F1 Team,2021
+1065,0.0,AlphaTauri,2021
+1066,35.0,Mercedes,2021
+1066,20.0,Red Bull,2021
+1066,15.0,Ferrari,2021
+1066,19.0,McLaren,2021
+1066,8.0,Alpine F1 Team,2021
+1066,4.0,Alfa Romeo,2021
+1066,1.0,Williams,2021
+1066,0.0,Aston Martin,2021
+1066,0.0,AlphaTauri,2021
+1066,0.0,Haas F1 Team,2021
+1067,36.0,Mercedes,2021
+1067,33.0,Red Bull,2021
+1067,16.0,Ferrari,2021
+1067,8.0,AlphaTauri,2021
+1067,6.0,McLaren,2021
+1067,2.0,Aston Martin,2021
+1067,1.0,Alpine F1 Team,2021
+1067,0.0,Alfa Romeo,2021
+1067,0.0,Williams,2021
+1067,0.0,Haas F1 Team,2021
+1069,40.0,Red Bull,2021
+1069,27.0,Mercedes,2021
+1069,18.0,Ferrari,2021
+1069,14.0,McLaren,2021
+1069,2.0,AlphaTauri,2021
+1069,1.0,Aston Martin,2021
+1069,0.0,Alfa Romeo,2021
+1069,0.0,Williams,2021
+1069,0.0,Haas F1 Team,2021
+1069,0.0,Alpine F1 Team,2021
+1070,40.0,Red Bull,2021
+1070,18.0,Mercedes,2021
+1070,12.0,AlphaTauri,2021
+1070,18.0,Ferrari,2021
+1070,6.0,Aston Martin,2021
+1070,4.0,Alfa Romeo,2021
+1070,2.0,Alpine F1 Team,2021
+1070,1.0,McLaren,2021
+1070,0.0,Williams,2021
+1070,0.0,Haas F1 Team,2021
+1071,43.0,Mercedes,2021
+1071,33.0,Red Bull,2021
+1071,19.0,Ferrari,2021
+1071,6.0,AlphaTauri,2021
+1071,6.0,Alpine F1 Team,2021
+1071,1.0,McLaren,2021
+1071,0.0,Aston Martin,2021
+1071,0.0,Alfa Romeo,2021
+1071,0.0,Williams,2021
+1071,0.0,Haas F1 Team,2021
+1051,25.0,Mercedes,2021
+1051,31.0,Red Bull,2021
+1051,25.0,Alpine F1 Team,2021
+1051,9.0,Aston Martin,2021
+1051,10.0,Ferrari,2021
+1051,2.0,McLaren,2021
+1051,0.0,AlphaTauri,2021
+1051,0.0,Alfa Romeo,2021
+1051,0.0,Haas F1 Team,2021
+1051,0.0,Williams,2021
+1072,41.0,Mercedes,2021
+1072,18.0,Red Bull,2021
+1072,12.0,Alpine F1 Team,2021
+1072,11.0,McLaren,2021
+1072,8.0,AlphaTauri,2021
+1072,10.0,Ferrari,2021
+1072,2.0,Alfa Romeo,2021
+1072,0.0,Aston Martin,2021
+1072,0.0,Williams,2021
+1072,0.0,Haas F1 Team,2021
+1073,26.0,Red Bull,2021
+1073,26.0,Mercedes,2021
+1073,16.0,Ferrari,2021
+1073,22.0,AlphaTauri,2021
+1073,6.0,McLaren,2021
+1073,6.0,Alpine F1 Team,2021
+1073,0.0,Aston Martin,2021
+1073,0.0,Haas F1 Team,2021
+1073,0.0,Williams,2021
+1073,0.0,Alfa Romeo,2021
