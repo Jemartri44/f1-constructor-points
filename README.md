@@ -30,7 +30,7 @@ The dashboard uses the **‘Formula 1 Race Data’** dataset from Kaggle.
 2. **Run the Application:**  
    Start the dashboard by running:
 
-       python app.py
+       python dashboard.py
 
 ## Features ✨
 
@@ -43,11 +43,11 @@ The dashboard uses the **‘Formula 1 Race Data’** dataset from Kaggle.
 
 This screenshot showcases the main plot with its legend and two interactive selectors—one for choosing the desired seasons and another for comparing constructors.
 
-<img src="screenshots/dashboard.png" alt="Dashboard Screenshot" width="80%">
+<img src="screenshots/dashboard.png" alt="Dashboard Screenshot">
 
 In the next example, you can see the rise in performance for Mercedes alongside a decline for Red Bull. When selecting the seasons 2011-2015 and filtering for three major constructors, you can observe that in 2014, Mercedes recorded an average of 36.89 points per race with a standard deviation of 10.08.
 
-<img src="screenshots/filtered-dashboard.png" alt="Filtered Dashboard Screenshot" width="80%">
+<img src="screenshots/filtered-dashboard.png" alt="Filtered Dashboard Screenshot">
 
 ## Technologies 🛠️
 
